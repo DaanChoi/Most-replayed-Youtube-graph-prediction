@@ -1,9 +1,8 @@
 
 # Prediction of Most-replayed graph by LSTM
-Made by Daan Choi
+Made by Daan Choi  
 ☎️ dadols53@gmail.com
 
-Youtube Most-replayed graph prediction  
 
 <br>
 
